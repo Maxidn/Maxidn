@@ -29,6 +29,7 @@ Jupyter, Git, Docker, VS Code, Power BI, Excel
 
 - [`ml-project`](https://github.com/Maxidn/ml-project): End-to-end ML pipeline with supervised learning and clustering
 - [`nlp-project`](https://github.com/Maxidn/nlp-project): Sentiment classification with RoBERTa,Electra, Optuna, and W&B
+- [`style-transfer-project`](https://github.com/Maxidn/style-transfer-project): Artistic style transfer using VGG19 and AlexNet with PyTorch, applying a pre-trained CNN to blend content and style images from a Van-Gogh dataset and personal images.
 - Additional projects to be added soon
 
 ---
