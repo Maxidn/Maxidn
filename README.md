@@ -30,14 +30,14 @@ Jupyter, Git, Docker, VS Code, Power BI, Excel
 - [`ml-project`](https://github.com/Maxidn/ml-project): End-to-end ML pipeline with supervised learning and clustering
 - [`nlp-project`](https://github.com/Maxidn/nlp-project): Sentiment classification with RoBERTa,Electra, Optuna, and W&B
 - [`style-transfer-project`](https://github.com/Maxidn/style-transfer-project): Artistic style transfer using VGG19 and AlexNet with PyTorch, applying a pre-trained CNN to blend content and style images from a Van-Gogh dataset and personal images.
-- [fact-checker](https://github.com/Maxidn/fact_checker): Retrieval-Augmented Generation (RAG) system that combines Wikipedia, NewsAPI, Wikidata, and Google Fact Check API. Uses **LLMs via OpenRouter**, prompt engineering, and entity normalization to verify factual claims with structured JSON outputs. 
+- [`fact-checker`](https://github.com/Maxidn/fact_checker): Retrieval-Augmented Generation (RAG) system that combines Wikipedia, NewsAPI, Wikidata, and Google Fact Check API. Uses **LLMs via OpenRouter**, prompt engineering, and entity normalization to verify factual claims with structured JSON outputs. 
 
 - Additional projects to be added soon
 
 ---
 ## Outside of Work
 
-When I'm not working, studying or doing research, you'll usually find me at the gym💪, on the football field⚽, or playing tennis🎾. Staying active helps me stay focused and sharp in my work.
+When I'm not working, studying or doing research, you'll usually find me at the gym, on the football field, or playing tennis. Staying active helps me stay focused and sharp in my work.
 
 
 ---
